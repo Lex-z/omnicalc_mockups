@@ -1,3 +1,5 @@
-body {
-
+head {
+  <link rel="icon" type="image/png" href="../ruby.png">
 }
+
+.dl-horizontal dt{white-space: normal;word-wrap:break-word;}
